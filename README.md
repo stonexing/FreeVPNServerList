@@ -1,1 +1,3 @@
-# FreeVPNServerList
+```json
+{"id":1,"version":"1","data":"5fPUOkIopEW2hfqTHhZD3/MtxdhQNbw58KPA77ntZQtuzNeAWlowqw2qHogGNkoQ58uJPMyGFPsoLJ4bG7vK/bwRwv2PvE/NZBjY4NWJfniuvS49UnpnqKy5XHo7twJBRqJ6GT5d7LXp3ZwzcZ4R+dvhq9KAQlpc8o5hDkOnftHmOTSRRSL8N8KufO3U+E7CLpr018Sp7OAiHTug5curcCo5yLsEvyW6nBpEsIztI48p/ngHk44N9fw7+KSP0Sn7txWuWMStWFBtXeIC5MrxW0wCjtIbwnbidzY3SsUz3vI="}
+```
